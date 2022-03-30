@@ -5,7 +5,7 @@
     <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=falqtte&layout=compact&langs_count=7&theme=tokyonight">
 </div>
 <div><br>
-    <img width="20%" align="left" alt="Falq-pic" style="border-radius: 25px;" src="https://github.com/falqtte.png">
+    <img width="20%" align="right" alt="Falq-pic" style="border-radius: 25px;" src="https://github.com/falqtte.png">
 </div>
 <br>
 
