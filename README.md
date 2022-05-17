@@ -1,4 +1,4 @@
-# ☕ Hii, I'm Falchetti, a brazilian Computer Science student! 
+# ☕ Hii, I'm Falchetti, a Brazilian Computer Science student! 
 
 <div align="center">
     <img width="49%" src="https://github-readme-stats.vercel.app/api?username=falqtte&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true">
@@ -9,10 +9,10 @@
 </div>
 <br>
 
-- I'm Matheus Falchetti, a 17y brazilian computer science student!
-- At the moment I'm at my first dive at programming/software development and hope to get much more deeper! 
-- Here I post some of my study projects (such as small projects or 30 days challages).
-- For now the majority of my projects are written in JavaScript with some HTML and CSS, but in future I plan to learn other languages, such as Java or C# and explore more of other areas of software development.
+- I'm Matheus Falchetti, a 17y Brazilian computer science student!
+- For now, I'm in my first dive at software development, and plan to get much deeper.
+- Here I post some of my study projects (such as small projects or 30 days challenges).
+- The majority of my projects are written in JavaScript with some HTML and CSS, but in future I plan to learn other programming languages, such as Java or C and explore more of other areas of software development.
 
 <br>
 <br>
